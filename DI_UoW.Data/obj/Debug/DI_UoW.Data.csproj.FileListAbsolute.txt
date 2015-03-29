@@ -1,0 +1,16 @@
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\DI_UoW.Data.dll.config
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\DI_UoW.Data.dll
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\DI_UoW.Data.pdb
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\DI_UoW.Model.dll
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\EntityFramework.dll
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\DI_UoW.Model.pdb
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\EntityFramework.xml
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\DI_UoW\DI_UoW.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\DI_UoW\DI_UoW.Data\obj\Debug\DI_UoW.Data.csprojResolveAssemblyReference.cache
+D:\Projects\DI_UoW\DI_UoW.Data\obj\Debug\DI_UoW.Data.dll
+D:\Projects\DI_UoW\DI_UoW.Data\obj\Debug\DI_UoW.Data.pdb

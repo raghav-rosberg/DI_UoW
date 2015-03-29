@@ -1,0 +1,23 @@
+﻿@model IEnumerable<OlympusBenchmarking.Web.ViewModel.AccountViewModel>
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Account Index</h2>
+
+Number of users: @Model.Count()
+<table>
+    <th>
+        <td>UserName
+        </td>
+    </th>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>
+                @user.UserName
+            </td>
+        </tr>
+    }
+</table>

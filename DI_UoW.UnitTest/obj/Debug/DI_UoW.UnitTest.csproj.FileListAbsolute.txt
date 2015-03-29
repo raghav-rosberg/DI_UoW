@@ -1,0 +1,5 @@
+D:\Projects\DI_UoW\DI_UoW.UnitTest\bin\Debug\DI_UoW.UnitTest.dll
+D:\Projects\DI_UoW\DI_UoW.UnitTest\bin\Debug\DI_UoW.UnitTest.pdb
+D:\Projects\DI_UoW\DI_UoW.UnitTest\obj\Debug\DI_UoW.UnitTest.dll
+D:\Projects\DI_UoW\DI_UoW.UnitTest\obj\Debug\DI_UoW.UnitTest.pdb
+D:\Projects\DI_UoW\DI_UoW.UnitTest\obj\Debug\DI_UoW.UnitTest.csprojResolveAssemblyReference.cache

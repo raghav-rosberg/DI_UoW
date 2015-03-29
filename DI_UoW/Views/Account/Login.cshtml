@@ -1,0 +1,18 @@
+﻿@model DI_UoW.ViewModel.LoginViewModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>title</h2>
+@using (Html.BeginForm("Login", "Account", new { ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <div>
+        UserName: @Html.TextBoxFor(m => m.UserName)
+        <br />
+        Password: @Html.PasswordFor(m => m.Password)
+        <br />
+        <input type="submit" value="Login" />
+    </div>
+}

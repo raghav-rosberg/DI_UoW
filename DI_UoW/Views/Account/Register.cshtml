@@ -1,0 +1,24 @@
+﻿@model DI_UoW.ViewModel.AccountViewModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>title</h2>
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <div>
+        UserName: @Html.TextBoxFor(m => m.UserName)
+        <br />
+        Password: @Html.PasswordFor(m => m.Password)
+        <br />
+        Email: @Html.TextBoxFor(m => m.Email)
+        <br />
+        FirstName: @Html.TextBoxFor(m => m.FirstName)
+        <br />
+        LastName: @Html.TextBoxFor(m => m.LastName)
+        <br />
+        <input type="submit" value="Register" />
+    </div>
+}
